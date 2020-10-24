@@ -17,6 +17,7 @@ Number of variables            67
 Label   Variable                           Class         # unique  Missing  
                                                            values                        
 ------- ---------------------------------- ----------- ---------- --------- -------------
+
         **[Subject]**                      integer             30  0.00 %                
 
         **[Activity]**                     character            6  0.00 %                
