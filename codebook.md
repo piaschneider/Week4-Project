@@ -18,7 +18,7 @@ Number of variables            67
                                                            values                        
 ------- ---------------------------------- ----------- ---------- --------- 
 
-        **[Subject]**                      integer             30  0.00 %                
+        Subject                            integer             30  0.00 %                
 
         **[Activity]**                     character            6  0.00 %                
 
