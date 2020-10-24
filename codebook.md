@@ -2,7 +2,7 @@
 # Codebook
 
 
-The dataset examined has the following dimensions:
+The dataset has the following dimensions:
 
 Number of observations        180
 
