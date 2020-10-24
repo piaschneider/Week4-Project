@@ -118,39 +118,39 @@ Number of variables            67
 
         fBodyAccJerk_mean_Y                numeric            180  0.00 %                
 
-        **[fBodyAccJerk\_mean\_Z]**        numeric            180  0.00 %                
+        fBodyAccJerk_mean_Z                numeric            180  0.00 %                
 
-        **[fBodyAccJerk\_std\_X]**         numeric            180  0.00 %                
+        fBodyAccJerk_std_X                 numeric            180  0.00 %                
 
-        **[fBodyAccJerk\_std\_Y]**         numeric            180  0.00 %                
+        fBodyAccJerk_std_Y                 numeric            180  0.00 %                
 
-        **[fBodyAccJerk\_std\_Z]**         numeric            180  0.00 %                
+        fBodyAccJerk_std_Z                 numeric            180  0.00 %                
 
-        **[fBodyGyro\_mean\_X]**           numeric            180  0.00 %                
+        fBodyGyro_mean_X                   numeric            180  0.00 %                
 
-        **[fBodyGyro\_mean\_Y]**           numeric            180  0.00 %                
+        fBodyGyro_mean_Y                   numeric            180  0.00 %                
 
-        **[fBodyGyro\_mean\_Z]**           numeric            180  0.00 %                
+        fBodyGyro_mean_Z                   numeric            180  0.00 %                
 
-        **[fBodyGyro\_std\_X]**            numeric            180  0.00 %                
+        fBodyGyro_std_X                    numeric            180  0.00 %                
 
-        **[fBodyGyro\_std\_Y]**            numeric            180  0.00 %                
+        fBodyGyro_std_Y                    numeric            180  0.00 %                
 
-        **[fBodyGyro\_std\_Z]**            numeric            180  0.00 %                
+        fBodyGyro_std_Z                    numeric            180  0.00 %                
+      
+        fBodyAccMag_mean                   numeric            180  0.00 %                
 
-        **[fBodyAccMag\_mean]**            numeric            180  0.00 %                
+        fBodyAccMag_std                    numeric            180  0.00 %                
 
-        **[fBodyAccMag\_std]**             numeric            180  0.00 %                
+        fBodyBodyAccJerkMag_mean           numeric            180  0.00 %                
 
-        **[fBodyBodyAccJerkMag\_mean]**    numeric            180  0.00 %                
+        fBodyBodyAccJerkMag_std            numeric            180  0.00 %                
 
-        **[fBodyBodyAccJerkMag\_std]**     numeric            180  0.00 %                
+        fBodyBodyGyroMag_mean              numeric            180  0.00 %                
 
-        **[fBodyBodyGyroMag\_mean]**       numeric            180  0.00 %                
+        fBodyBodyGyroMag_std               numeric            180  0.00 %                
 
-        **[fBodyBodyGyroMag\_std]**        numeric            180  0.00 %                
-
-        **[fBodyBodyGyroJerkMag\_mean]**   numeric            180  0.00 %                
+        fBodyBodyGyroJerkMag_mean          numeric            180  0.00 %                
 -----------------------------------------------------------------------------------------
 
 
