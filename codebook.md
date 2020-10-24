@@ -1,20 +1,8 @@
 ---
-title: Codebook
-date: 2020-10-24 17:48:00
----
-```{r , echo=FALSE, include=FALSE, warning=FALSE, message=FALSE, error=FALSE}
-library("ggplot2")
-library("pander")
-```
-
-```{r 'visualFunctions', echo=FALSE, include=FALSE, warning=FALSE, message=FALSE, error=FALSE}
-ggAggHist <- getFromNamespace("ggAggHist", "dataMaid")
-ggAggBarplot <- getFromNamespace("ggAggBarplot", "dataMaid")
-```
+# Codebook
 
 # Data report overview
 The dataset examined has the following dimensions:
-
 
 ---------------------------------
 Feature                    Result
