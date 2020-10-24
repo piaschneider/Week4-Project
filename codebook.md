@@ -159,6 +159,8 @@ Number of variables            67
 
 Transformations that I transformed are described directly in the run_analysis.R scripted along with the code.
 
+The variable-names are changed a little: I removed the () and substitute the - with a _.
+
 The resulting variables are averages of the original variables over an activity for each subject.
 
 ---
