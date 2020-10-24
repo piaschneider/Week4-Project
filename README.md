@@ -11,10 +11,10 @@ The how this run_analysis.R script works is descripted in detail directly in the
 
 Step 1: Mergeing the training and the test set to create one data set
 
-a: adding the features-vector to the train- and test-set (in oder to name the variables)
-b: add the y_train and y_test vectors to the X_train/X_test set and rename it into "Activty" for more clarity
-c: add the subject_train and subject_test vectors to the X_train/X_test set  and rename it into "Subject" for more clarity
-d: put the two datasets (train and test) together
+a: adding the features-vector to the train- and test-set (in oder to name the variables)  
+b: add the y_train and y_test vectors to the X_train/X_test set and rename it into "Activty" for more clarity  
+c: add the subject_train and subject_test vectors to the X_train/X_test set  and rename it into "Subject" for more clarity  
+d: put the two datasets (train and test) together  
 
 Step 2: Extract only measurements on the mean and standard deviation for each measurement
 
